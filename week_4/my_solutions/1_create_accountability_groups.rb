@@ -64,22 +64,11 @@ group_create(cicadas, 4)
 group_create(fiddler_crabs, 4)
 
 
-
-
-
 # 1. DRIVER TESTS GO BELOW THIS LINE
 
 p cicadas.is_a?(Array)
 p cicadas.shuffle != cicadas
 p cicadas.each_slice(4).to_a.length == 6
-
-
-
-
-
-
-
-
 
 # 5. Reflection 
 
