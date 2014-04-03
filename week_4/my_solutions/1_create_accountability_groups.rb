@@ -60,7 +60,9 @@ def group_create(array, group_size)
   end
 end
 
+puts "Cicadas, Unit 4\n\n"
 group_create(cicadas, 4)
+puts "\nFiddler Crabs, Unit 4\n\n"
 group_create(fiddler_crabs, 4)
 
 
