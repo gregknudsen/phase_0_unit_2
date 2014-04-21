@@ -74,3 +74,8 @@ p boggle_board.create_word(dice_grid, [3,1]) == "a"
 p boggle_board.create_word(dice_grid, [3,2]) == "k"
 
 # 5. Reflection 
+
+=begin
+  Sadly, no time for bonus section. Unless I missed something, this was a pretty straight forward challenge. I know we will be revisiting this again, and I look forward
+  to getting more complex problems.
+=end
